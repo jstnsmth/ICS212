@@ -3,7 +3,7 @@
 //
 //  NAME:        Justin Smith
 //
-//  HOMEWORK:    7
+//  HOMEWORK:    6
 //
 //  CLASS:       ICS 212
 //
@@ -11,7 +11,7 @@
 //
 //  DATE:        October 31, 2023
 //
-//  FILE:        homework7.cpp
+//  FILE:        homework6.cpp
 //
 //  DESCRIPTION: This program will ask for input from the user for a positive integer.
 //               It will continue to prompt the user until a positive integer is entered.
